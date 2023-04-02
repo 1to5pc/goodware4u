@@ -5,3 +5,4 @@ set date=%date%
 echo %date%
 pause
 set file=%name% and "," and %age% and %date%
+pause
