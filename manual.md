@@ -1,6 +1,6 @@
 #User Manual
 ---
-##Linux
+## Linux
 ### 1. Clone the repo
 `$ git clone https://github.com/1to5pc/goodware4u.git`
 `$ cd goodware4u` - Navigate to goodware4u
