@@ -4,4 +4,5 @@ set /p age="Input your age: "
 pause
 set file=%name% , %age% , %date% %time%
 echo %file%
+echo %file% >> logfile
 pause
