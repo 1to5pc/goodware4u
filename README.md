@@ -2,4 +2,8 @@
 
 A bash script for linux
 
-Asks for usernames and ages everytime it's run.
+Asks for the username and age everytime it's run.
+
+---
+
+Feel free to change the code to suit your needs.
