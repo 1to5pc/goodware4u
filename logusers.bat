@@ -4,6 +4,6 @@ set /p age="Input your age: "
 set date=%date%
 echo %date%
 pause
-set file=%name% and "," and %age% and %date%
+set file=%name% , %age% , %date%
 echo %file%
 pause
