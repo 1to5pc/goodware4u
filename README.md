@@ -12,6 +12,7 @@ Feel free to change the code to suit your needs.
 ## Linux
 ### 1. Clone the repo
 `$ git clone https://github.com/1to5pc/goodware4u.git`
+
 `$ cd goodware4u`
 ### 2. Make the script 'executable'
 `$ chmod +x logusers.sh`
