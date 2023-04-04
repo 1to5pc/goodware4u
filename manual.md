@@ -9,3 +9,7 @@
 `$ chmod +x logusers.sh`
 ### 3. Run the script
 `$ ./logusers.sh`
+
+## Windows
+### 1. Download the latest .bat file from the releases tab
+### 2. Run the downloaded file. 
