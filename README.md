@@ -4,13 +4,11 @@ A bash script for linux
 
 Asks for the username and age everytime it's run.
 
----
-
 Feel free to change the code to suit your needs.
 
 ---
 # User Manual
----
+
 ## Linux
 ### 1. Clone the repo
 `$ git clone https://github.com/1to5pc/goodware4u.git`
