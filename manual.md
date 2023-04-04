@@ -10,5 +10,8 @@
 `$ ./logusers.sh`
 
 ## Windows
-### 1. Download the latest .bat file from the releases tab
-### 2. Run the downloaded file. 
+1. Download the latest .bat file from the releases tab
+2. Run the downloaded file. 
+
+## How to view logs [Universal]
+Open A file named "logfle" in the directory in which the script was run to view all logs
