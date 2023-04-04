@@ -6,18 +6,21 @@ Asks for the username and age everytime it's run.
 
 Feel free to change the code to suit your needs.
 
----
+
 # User Manual
 
 ## Linux
-### 1. Clone the repo
 `$ git clone https://github.com/1to5pc/goodware4u.git`
 
-`$ cd goodware4u`
-### 2. Make the script 'executable'
-`$ chmod +x logusers.sh`
-### 3. Run the script
-`$ ./logusers.sh`
+ `$ cd goodware4u`
+
+2. Make the script 'executable'
+
+ `$ chmod +x logusers.sh`
+
+3. Run the script
+
+ `$ ./logusers.sh`
 
 ## Windows
 1. Download the latest .bat file from the releases tab
