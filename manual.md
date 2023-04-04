@@ -3,8 +3,7 @@
 ## Linux
 ### 1. Clone the repo
 `$ git clone https://github.com/1to5pc/goodware4u.git`
-
-`$ cd goodware4u` - Navigate to goodware4u
+`$ cd goodware4u`
 ### 2. Make the script 'executable'
 `$ chmod +x logusers.sh`
 ### 3. Run the script
