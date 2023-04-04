@@ -25,4 +25,4 @@ Feel free to change the code to suit your needs.
 2. Run the downloaded file. 
 
 ## How to view logs [Universal]
-Open a file named "logfle" in the directory in which the script was run to view all logs
+Open a file named "logfile" in the directory in which the script was run to view all logs
